@@ -23,3 +23,12 @@
     background-color: pink ;
     animation: blinker 1s linear infinite;
   }
+
+  .circle {
+    height: 50px;
+    width: 50px;
+    background-color: lightskyblue;
+    border-radius: 50%;
+    animation: blinker 1s linear infinite;
+  }
+  
