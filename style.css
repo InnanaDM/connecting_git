@@ -1,3 +1,18 @@
 *{
     background-color: black;
 }
+.blink_me {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .blink_me{
+      color: chartreuse;
+      font-size: 20pc;
+      
+  }
