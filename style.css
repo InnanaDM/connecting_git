@@ -16,3 +16,10 @@
       font-size: 20pc;
       
   }
+
+  .square {
+    height: 50px;
+    width: 50px;
+    background-color: pink ;
+    animation: blinker 1s linear infinite;
+  }
